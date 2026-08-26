@@ -3,9 +3,11 @@ Lecture Summary Skill:
 
 ✨ What it does
 
-Takes any lecture slides, PDFs, or raw notes as input
-Outputs a professionally formatted Word document (.docx) with coloured section headers, structured subsections, callout boxes, and tables
-Explains jargon automatically — technical terms and acronyms are expanded in plain language so the notes actually make sense later
+Takes any lecture slides, PDFs, or raw notes as input.
+
+Outputs a professionally formatted Word document (.docx) with coloured section headers, structured subsections, callout boxes, and tables.
+
+Explains jargon automatically — technical terms and acronyms are expanded in plain language so the notes actually make sense later.
 
 🚀 How to install
 
